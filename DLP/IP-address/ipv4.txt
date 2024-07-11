@@ -1,0 +1,34 @@
+# Ipv4
+
+Here is the list of ip address
+
+The DLP engine should recognize the ip address and do something about it 
+
+Random IPv4 Addresses
+
+`192.168.14.77`
+
+ `10.0.1.45`
+
+`172.16.254.1`
+
+`203.0.113.23`
+
+` 198.51.100.101`
+
+---
+
+
+# Ipv6
+
+Random IPv6 Addresses
+
+ `2001:0db8:85a3:0000:0000:8a2e:0370:7334`
+ 
+`2001:0db8:85a3:0000:0000:8a2e:0370:7335`
+
+`2001:0db8:85a3:0000:0000:8a2e:0370:7336`
+
+` 2001:0db8:85a3:0000:0000:8a2e:0370:7337`
+
+`2001:0db8:85a3:0000:0000:8a2e:0370:7338`

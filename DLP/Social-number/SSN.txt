@@ -1,0 +1,22 @@
+# Social Insurance number
+
+---
+
+Here is the list of some fake SSN
+
+- 123-45-6789 don’t
+- SSN’s having “000” or "666” as the first three left-most digits
+- SSN’s equal to or greater than “773” as the first three left-most digits
+- SSN’s having “00” as the fourth and fifth digits
+- SSN’s having “0000” as the last four digits
+
+
+`123-45-6789`
+
+`987-65-4321`
+
+`234-56-7890`
+
+`876-54-3210`
+
+`345-67-8901`
