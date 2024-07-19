@@ -1,0 +1,63 @@
+# Credit card number
+
+---
+
+Here is the list of some fake CCN
+
+
+Visa: Typically starts with a 4 and has 16 digits.
+
+    - Example: 4111 1111 1111 1111
+
+
+MasterCard: Typically starts with 51 through 55 or 2221 through 2720 and has 16 digits.
+
+    - Example: 5555 5555 5555 4444
+
+
+American Express (AMEX): Typically starts with 34 or 37 and has 15 digits.
+
+    - Example: 3782 822463 10005
+
+
+Discover: Typically starts with 6011, 622126-622925, 644-649, or 65 and has 16 digits.
+
+    - Example: 6011 1111 1111 1117
+
+
+Diners Club: Typically starts with 300-305, 36, or 38 and has 14 digits.
+
+    - Example: 3056 930902 5904
+
+
+JCB: Typically starts with 3528-3589 and has 16 digits.
+
+    - Example: 3530 1113 3330 0000
+
+
+UnionPay: Typically starts with 62 and has 16-19 digits.
+
+    - Example: 6212 3456 7890 1234
+
+
+Maestro: Typically starts with 50, 56-69 and has 12-19 digits.
+
+    - Example: 6759 6498 2643 8453
+
+
+RuPay: Typically starts with 60, 65, 81, or 82 and has 16 digits.
+
+    - Example: 6521 1234 5678 9123
+
+
+InterPayment: Typically starts with 636 and has 16-19 digits.
+
+    - Example: 6361 2345 6789 0123
+
+
+- 5529190838423473
+- 5520502591720722
+- 5346087376998471
+- 5351864288893129
+- 5592845158092842
+
